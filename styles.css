@@ -1,2 +1,15 @@
-
+.container{
+	background-color:purple;
+/* 	display:inline-block; */
+	width:200px;
+	border-left: green 5px solid ;
+	padding:10px
+}
+p{
+	color:white;
+	font-size:20px;
+	text-underline-position: under;
+	margin:0;
+	text-decoration: underline;
+}
 /* Your CSS Code here. */
